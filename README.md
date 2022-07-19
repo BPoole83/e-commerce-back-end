@@ -70,6 +70,6 @@ Enter PW when promted
 ## Testing
 ✏️
 
-No testing is currently set up
+
 
 
