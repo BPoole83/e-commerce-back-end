@@ -67,8 +67,7 @@ Enter PW when promted
   
 `npm start`
 
-## Testing
-✏️
+
 
 
 
