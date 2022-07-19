@@ -33,11 +33,7 @@ THEN I am able to successfully create, update, and delete data in my database
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
 - [Table of Contents](#table-of-contents)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [Questions](#questions)
+
 
 
 
