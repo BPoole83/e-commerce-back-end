@@ -63,9 +63,6 @@ Enter PW when promted
 
 `quit`
 
-`npm run seed`
-  
-`npm start`
 
 
 
